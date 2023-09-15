@@ -6,7 +6,7 @@ export class User {
   email: string;
   birthDate: string;
   bio: string;
-  createdAt: Date;
+  readonly createdAt: Date;
 
   constructor() {
     this.id = randomUUID();
