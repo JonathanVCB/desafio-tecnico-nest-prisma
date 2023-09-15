@@ -85,10 +85,10 @@ O servidor provavelmente estara rodando em http://localhost:3000
 
 ```
 {
-  "name": "Jonathan2",
-	"email": "teste2@mail.com",
-	"birthDate": "07/11/1999",
-	"bio": "testando"
+    "name": "Jonathan2",
+	  "email": "teste2@mail.com",
+	  "birthDate": "07/11/1999",
+	  "bio": "testando"
 }
 ```
 
@@ -96,12 +96,12 @@ O servidor provavelmente estara rodando em http://localhost:3000
 
 ```
 {
-  "id": "34c85da5-f02d-4bc7-a94f-6351649a9a2d",
-	"createdAt": "2023-09-15T17:57:27.570Z",
-	"name": "Jonathan2",
-	"email": "teste2@mail.com",
-	"birthDate": "07/11/1999",
-	"bio": "testando"
+    "id": "34c85da5-f02d-4bc7-a94f-6351649a9a2d",
+	  "createdAt": "2023-09-15T17:57:27.570Z",
+	  "name": "Jonathan2",
+	  "email": "teste2@mail.com",
+	  "birthDate": "07/11/1999",
+	  "bio": "testando"
 }
 ```
 
