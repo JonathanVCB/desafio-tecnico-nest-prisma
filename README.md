@@ -89,7 +89,7 @@ O servidor provavelmente estara rodando em http://localhost:3000
 	"email": "teste2@mail.com",
 	"birthDate": "07/11/1999",
 	"bio": "testando"
-}`
+}
 ```
 
 **Response:**
