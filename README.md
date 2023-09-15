@@ -225,7 +225,7 @@ No content
 
 ```
 {
-"content": "testando denovo cm jwt"
+  "content": "testando denovo cm jwt"
 }`
 ```
 
@@ -280,7 +280,7 @@ No content
 
 🟡 **PATCH - /posts/:id**
 
-- Rota para atualizar um post
+- Rota para atualizar um post.
   **ROTA PROTEGIDA POR JWT**
 
 **Request:**
@@ -304,7 +304,7 @@ No content
 
 🔴 **DELETE - /users/:id**
 
-- Rota para deletar um post
+- Rota para deletar um post.
   **ROTA PROTEGIDA POR JWT**
 
 **Response:**
